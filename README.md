@@ -1,6 +1,6 @@
 ### Hi there 👋 . My name is Junbin Zhang
 - Incoming Department of Computer Science and Information Engineering PhD student at National Cheng Kung University
-- My research interests include Graph Neural Networks, Computer Vision, Deep Learning, Deep Reinforcement Learning and Content-Centric Networking.
+- My research interests include Graph Neural Networks, Computer Vision, Deep Learning and Deep Reinforcement Learning.
 - Welcome to my homepage https://wolf-bailang.github.io/JunbinZhang/
 
 ![wolf-bailang's github stats](https://github-readme-stats.vercel.app/api?username=wolf-bailang&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)

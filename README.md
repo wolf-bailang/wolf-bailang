@@ -2,6 +2,7 @@
 - Incoming Department of Computer Science and Information Engineering PhD student at National Cheng Kung University
 - My research interests include Graph Neural Networks, Computer Vision, Deep Learning and Deep Reinforcement Learning.
 - Welcome to my homepage https://wolf-bailang.github.io/JunbinZhang/
+- Welcome to my lab https://cps.imis.ncku.edu.tw/
 
 ![wolf-bailang's github stats](https://github-readme-stats.vercel.app/api?username=wolf-bailang&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 

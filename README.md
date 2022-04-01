@@ -3,10 +3,6 @@
 - My research interests include Graph Neural Networks, Computer Vision, Deep Learning, Deep Reinforcement Learning and Content-Centric Networking.
 - Welcome to my homepage https://wolf-bailang.github.io/JunbinZhang/
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/wolf-bailang/count.svg" />
-</p>
-
 ![wolf-bailang's github stats](https://github-readme-stats.vercel.app/api?username=wolf-bailang&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
@@ -23,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/wolf-bailang/count.svg" />
+</p>

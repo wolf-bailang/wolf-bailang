@@ -1,7 +1,6 @@
-### Hi there 👋 . This is Junbin Zhang
-- Incoming Computer Science PhD student at NCKU
-- Computer Science master student at [CRIPAC-DIG](https://github.com/CRIPAC-DIG)
-- Specialized in Machine Learning with an emphasis on Graph Representation Learning and its applications in Recommender Systems
+### Hi there 👋 . My name is Junbin Zhang
+- Incoming Department of Computer Science and Information Engineering PhD student at National Cheng Kung University
+- My research interests include Graph Neural Networks, Computer Vision, Deep Learning, Deep Reinforcement Learning and Content-Centric Networking.
 - Welcome to my homepage https://wolf-bailang.github.io/JunbinZhang/
 
 <p align="center"> 

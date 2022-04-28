@@ -3,6 +3,7 @@
 - My research interests include Graph Neural Networks, Computer Vision, Deep Learning and Deep Reinforcement Learning.
 - Welcome to my homepage https://wolf-bailang.github.io/JunbinZhang/
 - Welcome to my lab https://cps.imis.ncku.edu.tw/
+- Welcome to my WeChat（微信） https://mp.weixin.qq.com/s/ArM6HtYRV9kHmABvAkCQ-w
 
 ![wolf-bailang's github stats](https://github-readme-stats.vercel.app/api?username=wolf-bailang&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 

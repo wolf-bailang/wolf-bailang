@@ -1,4 +1,7 @@
 ### Hi there 👋 . My name is Junbin Zhang
+
+![](https://komarev.com/ghpvc/?username=LirongWu&label=PROFILE+VIEWS)
+
 - Incoming Department of Computer Science and Information Engineering PhD student at National Cheng Kung University
 - My research interests include Graph Neural Networks, Computer Vision, Deep Learning and Deep Reinforcement Learning.
 - Welcome to my homepage https://wolf-bailang.github.io/JunbinZhang/

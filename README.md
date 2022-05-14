@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=wolf-bailang&layout=compact)
+
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/wolf-bailang/count.svg" />
 </p>

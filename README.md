@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=wolf-bailang&label=PROFILE+VIEWS)
 
-- Incoming Department of Computer Science and Information Engineering PhD student at National Cheng Kung University
+- I start working as a Post-doctoral fellow of Professor Yuexian Zou at ADSPLAB, School of Information Engineering, Shenzhen Graduate School, Peking University.
 - My research interests include Graph Neural Networks, Computer Vision, Deep Learning and Deep Reinforcement Learning.
 - Welcome to my homepage https://wolf-bailang.github.io/JunbinZhang/
 - Welcome to my lab https://cps.imis.ncku.edu.tw/
